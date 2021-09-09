@@ -6,6 +6,17 @@ Esse projeto cria um site para outro projeto denominado ["Fiberscent"](https://f
 
 Foi criado por [@Fel1pe14](https://github.com/Fel1pe14) e tem como objetivo desenvolver um site que divulgue o projeto "Fiberscent".
 
+Ele está sendo desenvolivdo utilizadno o framework web [Flask](https://flask.palletsprojects.com/en/2.0.x/) na linguagem [Python](https://www.python.org/) 3.9.2
+
+![flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png) 
+
+Também foram utilizadas as seguintes tecnologias:
+
+* Web Server Gateway Interface (WSGI): [Gunicorn](https://gunicorn.org/);
+* Tool for dependency management and packaging: [Python-Poetry](https://python-poetry.org/);
+* Platform as a Service (PaaS): [Heroku](https://www.heroku.com/);
+
+
 Você pode acessá-lo em: [fiberscent.herokuapp.com](https://fiberscent.herokuapp.com/)
 
 
