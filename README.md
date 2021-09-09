@@ -6,7 +6,7 @@ Esse projeto cria um site para outro projeto denominado ["Fiberscent"](https://f
 
 Foi criado por [@Fel1pe14](https://github.com/Fel1pe14) e tem como objetivo desenvolver um site que divulgue o projeto "Fiberscent".
 
-Ele está sendo desenvolivdo utilizadno o framework web [Flask](https://flask.palletsprojects.com/en/2.0.x/) na linguagem [Python](https://www.python.org/) 3.9.2
+Ele está sendo desenvolvido utilizando o framework web [Flask](https://flask.palletsprojects.com/en/2.0.x/) na linguagem [Python](https://www.python.org/) 3.9.2
 
 ![flask](https://flask.palletsprojects.com/en/2.0.x/_images/flask-logo.png) 
 
@@ -17,10 +17,10 @@ Também foram utilizadas as seguintes tecnologias:
 * Platform as a Service (PaaS): [Heroku](https://www.heroku.com/);
 
 
-Você pode acessá-lo em: [fiberscent.herokuapp.com](https://fiberscent.herokuapp.com/)
+**Você pode acessá-lo em**: [fiberscent.herokuapp.com](https://fiberscent.herokuapp.com/)
 
 
-# Projeto "Fibercent" 
+# Projeto "Fiberscent" 
 
 Esse projeto produziu um novo conceito de material, sustentável e biodegradável a base de amido de mandioca, fibras do bagaço de cana e vermiculita, para ser empregado como “vareta” difusora de essências em aromatizadores de ambientes, com o objetivo de melhorar a eficiência e reduzir os custos em comparação aos difusores empregados atualmente. 
 
