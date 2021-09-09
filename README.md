@@ -4,7 +4,7 @@ Esse projeto cria um site para outro projeto denominado ["Fiberscent"](https://f
 
 # Sobre o projeto
 
-Foi criado por @fel1pe14 e tem como objetivo desenvolver um site que divulgue o projeto "Fiberscent".
+Foi criado por @Fel1pe14 e tem como objetivo desenvolver um site que divulgue o projeto "Fiberscent".
 
 Você pode acessá-lo em: [fiberscent.herokuapp.com](https://fiberscent.herokuapp.com/)
 
