@@ -7,15 +7,19 @@
     <title>Fiberscent</title>
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
 
-
-    <!-- {% block head %}
-    {% endblock %} -->
+<!--'block head' in html files--> 
+{% block head %}
+{% endblock %}
 
 </head>
 <body>
+<!-- Navigation bar  in 'navbar.html'-->
+{% include 'nav-bar.html' %}
 
-    {% block body %}
-    {% endblock %}
+ <!--'block body' in html files-->
+{% block body %}
+{% endblock %}
 
+<Script src="{{ url_for('static', filename='JS/mobile-navbar.js') }}"></Script>
 </body>
 </html>
